@@ -12,4 +12,4 @@ The objective of this dashboard is to analyze sales performance across regions, 
 -used different types of customized visulaization (bar charts,pie chart,donut chart,scatter chart,line chart,slicers etc).
 
 # dataset used
-
+<a href="https://github.com/keerthi-12334/power-bi-dashboard-/blob/main/Details.csv"> details dataset</a>
